@@ -17166,7 +17166,7 @@ compute
 computing
 <font color='blue'> n. </font><br><font face='Zawgyi-one,Zawgyi1'>ကြန္ပ်ဴတာသံုးစြဲ ျခင္း။</font>
 
-computer
+computer|computers
 <font color='blue'> n. </font><br><font face='Zawgyi-one,Zawgyi1'>ကြန္ပ်ဴတာ။</font>
 
 computerize -ise
