@@ -46,7 +46,7 @@ public static DataTable ExecuteSelect(DbCommand command, params DbParameter[] pa
   * Client demo: [http://www.zawgyi.org/English_Myanmar_Online_Dictionary.aspx]
 
 == Future ==
-Updating to dictionary data by authenticated web service user.
+Updating to dictionary data by authenticated web service user. This will be foundation for community based dictionary data building.
 
 == Bug Report ==
 [mailto:kyawtun@hnandar.com]
