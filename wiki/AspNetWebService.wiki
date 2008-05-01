@@ -24,6 +24,7 @@ Web services are new ways of doing modular web application in Web 2.0 arena. The
 <asp:TextBox ID="txtEnglishWord" runat="server" Width="80%" AutoPostBack="true" OnTextChanged="btnFind_Click" />
 <asp:Button ID="btnFind" runat="server" Text="Find" onclick="btnFind_Click" />
 <p><asp:Literal ID="litDefination" runat="server" /></p>
+Number of words: <asp:Literal ID="litNum" runat="server" />
 }}}
 {{{
 // C# code behind
