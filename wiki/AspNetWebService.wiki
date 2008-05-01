@@ -82,4 +82,4 @@ Updating to dictionary data by authenticated web service user. This will be foun
 
 == Authors ==
   # Kyaw Tun - Hnandar Developer Network ([http://www.hnandar.com/ HDN])
-  # Mark Soe Min - [http://www.mmgeeks.org MMGeeks] SQL script
+  # Mark Soe Min - [http://www.mmgeeks.org MMGeeks] VBA for SQL generation
