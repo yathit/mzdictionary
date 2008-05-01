@@ -25,7 +25,7 @@ This implimentation require `NuSOAP` PHP module.
 {{{
 <?
   require_once('nusoap.php'); 
-  $wsdl="http://www.xmethods.net/sd/2001/CurrencyExchangeService.wsdl";
+  $wsdl="http://www.hnandar.com/DictionaryService.asmx?WSDL";
   $client=new soapclient($wsdl, 'wsdl'); 
   $word = 'cafeteria';
   echo $client->call('Look', $param);
