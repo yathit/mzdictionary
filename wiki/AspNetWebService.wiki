@@ -27,7 +27,8 @@ DataTable table = DataAccess.ExecuteSelect(
             "SELECT TOP 25 * FROM " + dicTable + " " +
             "WHERE Word LIKE @Word;",
             DataAccess.CreateParameterString(enWord));
-
+}}}
+{{{
 // Data access layer implimentation
 public static DataTable ExecuteSelect(DbCommand command, params DbParameter[] parameters )
   {
