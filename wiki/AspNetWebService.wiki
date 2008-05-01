@@ -61,7 +61,7 @@ DataTable table = DataAccess.ExecuteSelect(
 // Data access layer implimentation
 // Note: database access layer is implimented elsewhere
 public class DataAccess {
-  public static DataTable ExecuteSelect(DbCommand command, params DbParameter[] parameters )
+  public static DataTable ExecuteSelect(string sqlString, params DbParameter[] parameters )
   {
     DbCommand command = CreateTextCommand();
     command.CommandText = sqlString;
