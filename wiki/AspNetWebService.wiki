@@ -1,3 +1,4 @@
 #summary ASP.NET dictionary lookup webservice
+#labels Featured
 
 Web services are new way to doing modular web application in Web 2.0 area. The English-Burmese dictionary lookup web service is perfectly fit with the concept. A small unit of this lookup service could be integrated to form more useful applications. A lot of applications could be imagined such as browser widget for mouse over lookup, online translation and conversation agent like [http://code.google.com/p/tartar/ tartar].
