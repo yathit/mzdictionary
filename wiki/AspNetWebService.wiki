@@ -14,11 +14,11 @@ Web services are new ways of doing modular web application in Web 2.0 arena. The
   # Run generated SQL commands
   # Supply data access layer 
   # Generate disco web service client module (generate by VS IDE)
-  # Code HTML
+  # Code ASPX
 
 ==== ASP.NET Client ====
   # Generate disco web service client module using publically available web service such as from [http://www.hnandar.com/DictionaryService.asmx](generate by VS IDE)
-  # Code HTML
+  # Code ASPX
 
 {{{
 // aspx
