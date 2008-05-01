@@ -38,7 +38,7 @@ protected void btnFind_Click(object sender, EventArgs e)
 }}}
 
 ==== PHP Client ====
-This implimentation require `NuSOAP` PHP module.
+This implimentation require [http://sourceforge.net/projects/nusoap/ NuSOAP] PHP module.
 {{{
 <?
   require_once('nusoap.php'); 
