@@ -49,7 +49,7 @@ This implimentation require [http://sourceforge.net/projects/nusoap/ NuSOAP] PHP
 ?>
 }}}
 
-_Note:_ Server source code for data access layer is not included, because it has security issue and most web site will also already have some form of data access layer. Basically the following code will help how it works:
+_Note:_ Server source code for data access layer is not included, because it has security issue. Futhermore most web site will already have some form of data access layer. Basically the following code will help how it works:
 {{{
 // Web service call 
 DataTable table = DataAccess.ExecuteSelect(
