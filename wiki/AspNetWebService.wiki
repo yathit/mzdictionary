@@ -3,8 +3,12 @@
 
 Web services are new ways of doing modular web application in Web 2.0 arena. The English-Burmese dictionary lookup web service is perfectly fit with the concept. A small unit of this lookup service could be integrated to form more useful applications. A lot of applications could be imagined such as browser widget for mouse over lookup, handy desktop webget, online translation and conversation agent like [http://code.google.com/p/tartar/ tartar].
 
+== Supported Protocols ==
+  # SOAP 1.1
+  # SOAP 1.2
+
 == Usages ==
-=== ASP.NET Server/Client ===
+==== ASP.NET Server/Client ====
   # Download cs source codes and create a web service
   # Generate dictionary data for MS SQL database ussing toMsSql.xls and A-Z.xls
   # Run generated SQL commands
@@ -12,15 +16,18 @@ Web services are new ways of doing modular web application in Web 2.0 arena. The
   # Generate disco web service client module (generate by VS IDE)
   # Code HTML
 
-=== ASP.NET Client ===
-  # Generate disco web service client module using publically available web service such as from [www.hnandar.com/DictionaryService.asmx](generate by VS IDE)
+==== ASP.NET Client ====
+  # Generate disco web service client module using publically available web service such as from [http://www.hnandar.com/DictionaryService.asmx](generate by VS IDE)
   # Code HTML
 
-
-== Supported Protocols ==
-  # SOAP 1.1
-  # SOAP 1.2
 
 == Demos ==
   * Publically available web service: [http://www.hnandar.com/DictionaryService.asmx]
   * Client demo: [http://www.zawgyi.org/English_Myanmar_Online_Dictionary.aspx]
+
+== Bug Report ==
+[mailto:kyawtun@hnandar.com]
+
+== Authors ==
+Kyaw Tun - Hnandar Developer Network ([http://www.hnandar.com/ HDN])
+Mark Soe Min - [MMGeeks http://www.mmgeeks.org] SQL script
